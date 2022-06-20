@@ -1,0 +1,13 @@
+6
+Nguyen Van An
+10 7 9.5
+Le Van Binh
+7 8 8.5
+Nguyen Thi Y Nhi
+9.5 9.5 9
+Ho Quang Hieu
+10 10 4.5
+Luong Thanh Xuan
+9 9 8
+Ta Thi Hong Diep
+8 8.5 8
